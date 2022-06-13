@@ -9,5 +9,5 @@ python3 open.py
 
 or 
 
-python3 xls-to-json-type.py
+python3 xls-data-type.py
 ```
